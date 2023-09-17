@@ -165,3 +165,4 @@ func main() {
 
 	logger.Log("exit", <-errc)
 }
+
